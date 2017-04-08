@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetDeviceTokenExample</string>
+
+    <!--<string name="gcm_defaultSenderId">560421469105</string>-->
+
+    <string name="push_notification_content">Push Notification Content</string>
+    <string name="device_token">Device Token</string>
+
+    <string name="fcm_token_not_received_yet">FCM Token is not received yet</string>
+</resources>
